@@ -1,0 +1,9 @@
+.table {
+ display: inline-block;
+.logo {
+    float: left;
+}
+
+.logo2 {
+    float: right;
+}

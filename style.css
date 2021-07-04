@@ -1,9 +1,13 @@
 .table {
  display: inline-block;
+}
+
 .logo {
+    background-color: green;
     float: left;
 }
 
-.logo2 {
+.nav {
+    background-color: yellow;
     float: right;
 }

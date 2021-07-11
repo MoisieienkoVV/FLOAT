@@ -45,11 +45,13 @@
 .flower {
     border: 1px solid red;
     float: left;
+    margin-bottom: 20px;
 }
 
 .tree {
     border: 1px solid red;
     float: right;
+    margin-bottom: 20px;
 }
 
 .flower.rose {
@@ -66,4 +68,32 @@
     margin-right: 5px;
     margin-bottom: 5px;
     float: left;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.card.three {
+   margin: auto;
+   width: 20%;
+}
+
+.moon {
+    font-size: xx-small;
+    width: 75px;
+    text-align: center;
+    border: 1px solid grey;
+    float: left;
+    
+}
+
+.sun {
+    float: right;
+    border: 1px solid red;
+    width: 35px;
+}
+
+.sun.big {
+    width: 25px;
 }
